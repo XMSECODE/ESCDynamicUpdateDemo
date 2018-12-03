@@ -1,0 +1,6 @@
+framework module ESCViewControllerDynamic {
+  umbrella header "ESCViewControllerDynamic.h"
+
+  export *
+  module * { export * }
+}
